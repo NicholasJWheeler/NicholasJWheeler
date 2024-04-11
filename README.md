@@ -1,4 +1,3 @@
-<img align="RIGHT" src="https://komarev.com/ghpvc/?username=NicholasJWheeler&style=for-the-badge&label=  Profile Views  &color=blueviolet"/><br>
 <h1 align="center"> Welcome To My GitHub!</h1>
 <h2><i>🌟 Spotlight Projects </i></h2>
 <p align="center">
