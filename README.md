@@ -2,10 +2,13 @@
 <h2><i>🌟 Spotlight Projects </i></h2>
 <p align="center">
   <h4>2023</h4>
-	<a href="https://github.com/NicholasJWheeler/Recipedia">
-	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasJWheeler&repo=Recipedia&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=20,AAFFD1,ABFF65" />
+	<a href="https://github.com/NicholasJWheeler/GameVault">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasJWheeler&repo=GameVault&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=50,d4ffcc,32A100" />
 	</a>
-  <a href="https://github.com/NicholasJWheeler/Stock-Ticker">
+	<a href="https://github.com/NicholasJWheeler/Recipedia">
+	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasJWheeler&repo=Recipedia&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=20,FFFFCF,FFE678" />
+	</a>
+  	<a href="https://github.com/NicholasJWheeler/Stock-Ticker">
 	  <img src="https://github-readme-stats.vercel.app/api/pin/?username=NicholasJWheeler&repo=Stock-Ticker&title_color=000000&icon_color=000000&hide_border=true&text_color=000000&border_radius=10&border_color=000000&show_owner=false&bg_color=28,DEDEDE,B8FFF3" />
 	</a>
 	<h4>2022</h4>
