@@ -1,12 +1,12 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
 
-<h2><i>🌟 Spotlight Projects </i></h2>
+<h2><i>Spotlight Projects </i></h2>
 
 <div align="center">
 
 ### 2023
 
-| [🎮 **GameVault**](https://github.com/NicholasJWheeler/GameVault) | [📖 **Recipedia**](https://github.com/NicholasJWheeler/Recipedia) | [📈 **Stock Ticker**](https://github.com/NicholasJWheeler/Stock-Ticker) |
+| [**GameVault**](https://github.com/NicholasJWheeler/GameVault) | [**Recipedia**](https://github.com/NicholasJWheeler/Recipedia) | [**Stock Ticker**](https://github.com/NicholasJWheeler/Stock-Ticker) |
 |:--:|:--:|:--:|
 | [![](https://img.shields.io/badge/View-Repository-32A100?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/GameVault) | [![](https://img.shields.io/badge/View-Repository-FFE678?style=for-the-badge&logo=github&logoColor=black)](https://github.com/NicholasJWheeler/Recipedia) | [![](https://img.shields.io/badge/View-Repository-B8FFF3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/NicholasJWheeler/Stock-Ticker) |
 | Game collection management | Recipe sharing platform | Real-time stock tracking |
@@ -33,7 +33,7 @@
 
 Miami University, located in Oxford, Ohio, is a prominent public research university known for its academic excellence and picturesque campus. Established in 1809, it is one of the oldest universities in the United States. Despite its name, it is not located in Miami, Florida, but rather in the charming college town of Oxford, which is around 35 miles northwest of Cincinnati, Ohio. I attended [Miami University's College of Engineering and Computing](https://www.miamioh.edu/cec/) on Miami's main campus.
 
-### 📝 Completed Courses
+### Completed Courses
 > Click to see a dropdown with more class information
 
 <details>
@@ -93,6 +93,6 @@ Miami University, located in Oxford, Ohio, is a prominent public research univer
 
 
 ## 🔗 Contact Me!
- - **🟦 LinkedIn** - [https://www.linkedin.com/in/nicholas-wheeler-271252222/](https://www.linkedin.com/in/nicholas-wheeler-271252222/)
+ - **LinkedIn** - [https://www.linkedin.com/in/nicholas-wheeler-271252222/](https://www.linkedin.com/in/nicholas-wheeler-271252222/)
 <br>
 
