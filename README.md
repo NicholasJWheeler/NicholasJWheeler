@@ -1,25 +1,28 @@
 <h1 align="center"> Welcome To My GitHub!</h1>
 
-<h2><i>Spotlight Projects </i></h2>
+<h2><i>Spotlight Projects</i></h2>
 
 <div align="center">
 
-### 2023
+### 2024
+| [**Taxicab Data Analyzer**](https://github.com/NicholasJWheeler/Taxicab-Data-Analyzer) |
+|:--:|
+| [![](https://img.shields.io/badge/View-Repository-FFE678?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/Taxicab-Data-Analyzer) |
+| Taxi dataset analysis application |
 
+### 2023
 | [**GameVault**](https://github.com/NicholasJWheeler/GameVault) | [**Recipedia**](https://github.com/NicholasJWheeler/Recipedia) | [**Stock Ticker**](https://github.com/NicholasJWheeler/Stock-Ticker) |
 |:--:|:--:|:--:|
-| [![](https://img.shields.io/badge/View-Repository-32A100?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/GameVault) | [![](https://img.shields.io/badge/View-Repository-FFE678?style=for-the-badge&logo=github&logoColor=black)](https://github.com/NicholasJWheeler/Recipedia) | [![](https://img.shields.io/badge/View-Repository-B8FFF3?style=for-the-badge&logo=github&logoColor=black)](https://github.com/NicholasJWheeler/Stock-Ticker) |
+| [![](https://img.shields.io/badge/View-Repository-777777?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/GameVault) | [![](https://img.shields.io/badge/View-Repository-32A100?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/Recipedia) | [![](https://img.shields.io/badge/View-Repository-B8FFF3?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/Stock-Ticker) |
 | Game collection management | Recipe sharing platform | Real-time stock tracking |
 
 ### 2022
-
 | [**MIBites**](https://github.com/NicholasJWheeler/MIBites) |
 |:--:|
-| [![](https://img.shields.io/badge/View-Repository-ffa3be?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/MIBites) |
+| [![](https://img.shields.io/badge/View-Repository-DC143C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/MIBites) |
 | Campus dining review system |
 
 </div>
-
 <br>
 
 
@@ -49,7 +52,7 @@ Miami University, located in Oxford, Ohio, is a prominent public research univer
 
  - [View the formal course description here.](https://www.miamioh.edu/cec/academics/departments/cse/academics/course-descriptions/cse-271/index.html)
  -  All coding was done in Java
- - This course built on the first Java course to teach advanced programming concepts such as recursion
+ - This course is built on the first Java course to teach advanced programming concepts such as recursion
  - Developed an understanding of OOP concepts (Inheritance, Polymorphism, Abstraction, Encapsulation)
 </details>
 <details>
@@ -85,9 +88,9 @@ Miami University, located in Oxford, Ohio, is a prominent public research univer
 
  - [View a formal course description here.](https://miamioh-sa.terradotta.com/index.cfm?FuseAction=Programs.ViewProgramAngular&id=11908)
  - I took this course while on a faculty-led CSE study-abroad trip to the University of Calabria in Italy
- - This course utilized the declarative programming language DLV (Datalog with Disjunction) which was partially developed at the University of Calabria
+ - This course utilized the declarative programming language DLV (Datalog with Disjunction), which was partially developed at the University of Calabria
  - Complex problems such as the Knight's Tour, Sudoku, Binario, and the 3-colorability problem were able to be easily solved utilizing DLV
- - Since DLV is based on Datalog, it produces answer sets as the result by following "rules" set in the code
+ - Since DLV is based on Datalog, it produces answer sets as a result by following the "rules" set in the code
 </details>
 <br>
 
