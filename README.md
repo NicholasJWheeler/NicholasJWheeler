@@ -13,7 +13,7 @@
 
 ### 2022
 
-| [🍔 **MIBites**](https://github.com/NicholasJWheeler/MIBites) |
+| [**MIBites**](https://github.com/NicholasJWheeler/MIBites) |
 |:--:|
 | [![](https://img.shields.io/badge/View-Repository-ffa3be?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicholasJWheeler/MIBites) |
 | Campus dining review system |
